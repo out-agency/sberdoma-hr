@@ -1,0 +1,30 @@
+User-Agent: *
+Disallow: /page21595583.html
+Disallow: /main2
+Disallow: /page21206732.html
+Disallow: /header
+Disallow: /page21201135.html
+Disallow: /page21673941.html
+Disallow: /footer
+Disallow: /page22677202.html
+Disallow: /specialoffer
+Disallow: /page26600396.html
+Disallow: /hr
+Disallow: /page26766956.html
+Disallow: /archive
+Disallow: /page26767328.html
+Disallow: /clientcenter
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow:
+
+
+Sitemap: https://doma.ai/sitemap.xml
+Host: https://doma.ai
